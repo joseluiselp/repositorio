@@ -1,0 +1,24 @@
+[{
+   "CustomerRef": {
+	"FullName": "John Doe"
+  },
+  "TxnDate": "2021-01-13T00:00:00",
+  "RefNumber": "B2356444",
+  "TotalAmount": 800.00,
+  "PaymentMethodRef": {
+ 	"FullName": "Creditcard"
+  },
+  "Memo": ""
+},
+{
+   "CustomerRef": {
+	"FullName": "John Doe"
+  },
+  "TxnDate": "2021-01-11T00:00:00",
+  "RefNumber": "B1xs",
+  "TotalAmount": 340.00,
+  "PaymentMethodRef": {
+ 	"FullName": "Cash"
+  },
+  "Memo": ""
+}]

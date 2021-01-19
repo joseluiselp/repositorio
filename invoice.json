@@ -1,0 +1,70 @@
+[{
+  "CustomerRef": {
+   "FullName": "Pepita juarez"
+ },
+ "TxnDate": "2021-01-10T00:00:00",
+ "RefNumber": "B234",
+ "BillAddress": {
+   "Addr1": "Av la mata",
+   "Addr2": "Calle 9",
+   "Addr3": "",
+   "City": "Cabudare",
+   "State": "Lara",
+   "PostalCode": "3023",
+   "Country": "Venezuela"
+ },
+ "Memo": null,
+ "InvoiceLineRetList": [
+   {
+   	"ItemRef": {
+      "FullName": "Envio maritimo jejep"
+    },
+    "Desc": "No se lol",
+    "Rate": 200,
+    "Quantity": 1
+  },
+  {
+  	"ItemRef": {
+     "FullName": "Envio Arereo jejerere"
+   },
+   "Desc": "Description 2",
+   "Rate": 300,
+   "Quantity": 2
+ }
+]
+},
+{
+  "CustomerRef": {
+   "FullName": "John Doeisot"
+ },
+ "TxnDate": "2020-01-14T00:00:00",
+ "RefNumber": "B3444XXs",
+ "BillAddress": {
+   "Addr1": "Barquisimeto",
+   "Addr2": "",
+   "Addr3": "",
+   "City": "Barquisimeto",
+   "State": "Lara",
+   "PostalCode": "3001",
+   "Country": "Venezuela"
+ },
+ "Memo": null,
+ "InvoiceLineRetList": [
+   {
+    "ItemRef": {
+      "FullName": "Pepita de ro?"
+    },
+    "Desc": "Description 1",
+    "Rate": 2000,
+    "Quantity": 1
+  },
+  {
+    "ItemRef": {
+     "FullName": "Invoice Line Item Name 2"
+   },
+   "Desc": "Bitcoin",
+   "Rate": 42000,
+   "Quantity": 0.5
+ }
+]
+}]

@@ -1,0 +1,30 @@
+[{
+  "Name": "John Doe Jose mendoza",
+  "BillAddress": {
+	"Addr1": "Av la mata",
+	"Addr2": "av 9 entre calles 9 y 10",
+	"Addr3": "",
+	"City": "",
+	"State": "Lara",
+	"PostalCode": "3023",
+	"Country": "Venezuela"
+  },
+  "Phone": "584245686200",
+  "Email": "abc@abc.com",
+  "CompanyName": "JJM"
+},
+{
+  "Name": "Sohecdy Avila",
+  "BillAddress": {
+	"Addr1": "Av la monanita",
+	"Addr2": "casa 19-85",
+	"Addr3": "Agua viva",
+	"City": "",
+	"State": "Lara",
+	"PostalCode": "3023",
+	"Country": "Venezuela"
+  },
+  "Phone": "584245292303",
+  "Email": "sohe@abc.com",
+  "CompanyName": "SOHE'S"
+}]
